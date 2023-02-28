@@ -1,6 +1,4 @@
 package main
-
-// TODO: Get only the temperature key and value, parse it to html if possible
 import (
 	"io"
 	"log"
