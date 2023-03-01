@@ -2,7 +2,7 @@
 <h1>Not made for use it!</h1>
 <p>A client for a weather API made in Go. This project is done by practicing purposes and not for a serious project so may not be perfect </p>
 <h2> How to use it</h2>
-<p>Step 1: Wait until I fix it</p>
+<p>Step 1: Install Go<br> Step 2: Execute go run main.go<br> Step 3: Go to http://localhost:3000/weather</p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <h3>Silly cat section</h3>
